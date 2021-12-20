@@ -1,2 +1,2 @@
 # go-frontend
-Experimenting browser frontend in Go
+Experimenting browser frontend applications in Go
